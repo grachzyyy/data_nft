@@ -1,0 +1,15 @@
+{
+  "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/33154.png",
+  "name": "Zero NFT",
+  "description": "Example",
+  "attributes": [
+    {
+      "trait_type": "age",
+      "value": "5"
+    },
+    {
+      "trait_type": "lesson",
+      "value": "6"
+    }
+  ]
+}
